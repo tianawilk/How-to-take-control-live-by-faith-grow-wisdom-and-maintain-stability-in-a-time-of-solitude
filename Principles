@@ -1,0 +1,28 @@
+<title>Image Example</title>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stoic and Stable Lifestyle</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="principles.html">Principles</a></li>
+          <li><a href="finacialtips.html">Financial Tips</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="welcome">
+        <h1>How to take control, live by faith, grow wisdom, and maintain stability in a time of solitude</h1>
+        <p>Explore how to cultivate maturity, financial stability, and a stoic mindset while maintaining high standards in your life.</p>
+      </section>
+    </main>
+  
+  </body>
+</html>
