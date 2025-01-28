@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taking Control and Trusting in God</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="principles.html">Principles</a></li>
+          <li><a href="financial_tips.html">Financial Tips</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="stoic-principles">
+        <h1>Taking Control of Your Life and Trusting in God</h1>
+        <p>Life becomes meaningful when we take control of our choices while maintaining unwavering faith in God. By aligning our actions with faith, we can navigate life’s challenges with hope and determination. Here are key principles to guide your journey:</p>
+        <ul>
+          <li><strong>Take Responsibility for Your Actions:</strong> Understand that your decisions have the power to shape your future. Commit to making choices that align with your values and goals.</li>
+          <li><strong>Have Faith in God’s Plan:</strong> Trust that God’s plan for your life is greater than your understanding. Believe that every challenge is an opportunity for growth and learning.</li>
+          <li><strong>Pray and Reflect:</strong> Regular prayer and reflection provide clarity and strength. Seek guidance from God as you navigate decisions and challenges.</li>
+          <li><strong>Embrace Patience:</strong> Faith requires patience. Trust that God’s timing is perfect, and wait with hope for the blessings ahead.</li>
+          <li><strong>Surrender Worries:</strong> Release your fears and worries to God. Know that you are not alone, and that divine power will guide and sustain you through every obstacle.</li>
+        </ul>
+        <p>By taking control of your life with confidence and placing your faith in God, you can experience peace, purpose, and fulfillment in all you do.</p>
+      </section>
+    </main>
+  </body>
+</html>
